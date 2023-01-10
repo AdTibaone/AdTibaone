@@ -1,4 +1,5 @@
-### Hi there 👋
+### AdTibaone
+AdTibaone is an Adblock list.
 
 <!--
 **AdTibaone/AdTibaone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
