@@ -1,11 +1,12 @@
 [Adblock Plus 2.0]
-! Version 202301101510
+! Version 202301101552
 ! Title: AdTibaone
-! Last modified: 10 Jan 2023 15:10 UTC
+! Last modified: 10 Jan 2023 15:52 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/AdTibaone/AdTibaone
 
 9to5linux.com##.ai_widget
+distrowatch.com##hr+table
 frandroid.com##.sidebar-content-container
 journaldugeek.com##.jdg_ad_halfpage_widget
 journaldugeek.com##.od-billboard
