@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version 202301111222
+! Version 202301111242
 ! Title: AdTibaone
-! Last modified: 11 Jan 2023 12:22 UTC
+! Last modified: 11 Jan 2023 12:42 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/AdTibaone/AdTibaone
 
@@ -12,6 +12,7 @@ distrowatch.com##th.NavMenu
 frandroid.com##.sidebar-content-container
 hitek.fr###didomi-host
 hitek.fr#$#.didomi-popup-open{overflow:auto}
+hitek.fr###header_ad
 journaldugeek.com##.jdg_ad_halfpage_widget
 journaldugeek.com##.od-billboard
 journaldugeek.com##.od-wrapper
@@ -20,6 +21,10 @@ korben.info##.NKSYD1CP-widget
 korben.info##.NKSYD1CP-nativestream-p1-0
 laprovence.com###cadreJokerlyADSContainer
 laprovence.com##.bloc-newsletter
+lemonde.fr##.gdpr-lmd-wall
+lemonde.fr###banniere_haute
+lemonde.fr#$#body.popin-gdpr-no-scroll{overflow:auto}
+lemonde.fr#$#html.popin-gdpr-no-scroll{overflow:auto}
 qwant.com##.result--ext
 twitter.com##[data-testid="BottomBar"]
 
