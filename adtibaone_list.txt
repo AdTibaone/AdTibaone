@@ -7,6 +7,8 @@
 
 9to5linux.com##.ai_widget
 distrowatch.com##hr+table
+distrowatch.com##hr
+distrowatch.com##th.NavMenu
 frandroid.com##.sidebar-content-container
 journaldugeek.com##.jdg_ad_halfpage_widget
 journaldugeek.com##.od-billboard
