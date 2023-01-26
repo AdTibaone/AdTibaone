@@ -23,7 +23,7 @@ laprovence.com###cadreJokerlyADSContainer
 laprovence.com##.bloc-newsletter
 lemonde.fr##.gdpr-lmd-wall
 lemonde.fr###banniere_haute
-lemonde.fr##body:style(overflow:auto!important)
+lemonde.fr##.popin-gdpr-no-scroll
 lequipe.fr##.AdPlaceholder
 qwant.com##.result--ext
 twitter.com##[data-testid="BottomBar"]
