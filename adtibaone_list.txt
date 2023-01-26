@@ -11,7 +11,7 @@ distrowatch.com##hr
 distrowatch.com##th.NavMenu
 frandroid.com##.sidebar-content-container
 hitek.fr###didomi-host
-hitek.fr#$#.didomi-popup-open{overflow:auto}
+hitek.fr#$#.didomi-popup-open{overflow:auto !important}
 hitek.fr###header_ad
 journaldugeek.com##.jdg_ad_halfpage_widget
 journaldugeek.com##.od-billboard
@@ -23,7 +23,8 @@ laprovence.com###cadreJokerlyADSContainer
 laprovence.com##.bloc-newsletter
 lemonde.fr##.gdpr-lmd-wall
 lemonde.fr###banniere_haute
-lemonde.fr#$#.popin-gdpr-no-scroll{overflow:auto !importanr}
+lemonde.fr#$#.popin-gdpr-no-scroll{overflow:auto !important}
+lequipe.fr##.AdPlaceholder
 qwant.com##.result--ext
 twitter.com##[data-testid="BottomBar"]
 
