@@ -24,6 +24,7 @@ laprovence.com##.bloc-newsletter
 lemonde.fr##.gdpr-lmd-wall
 lemonde.fr###banniere_haute
 ||lemonde.fr^*/lemonde.min.js
+cmp.lemonde.fr/js/lemonde.min.js
 lequipe.fr##.AdPlaceholder
 qwant.com##.result--ext
 twitter.com##[data-testid="BottomBar"]
