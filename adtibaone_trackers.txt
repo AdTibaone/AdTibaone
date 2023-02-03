@@ -5,9 +5,13 @@
 ! Expires: 1 days
 ! Homepage: https://github.com/AdTibaone/AdTibaone
 
+||*/AbandonnisteStickyBanner*.js
+||*/ad-web.js
 ||*/AmauryMedia*.js
 ||*/didomi*.js
 ||*/CmpABTest*.js
+||*/cookie.min.js
+||*/crypto-js.min.js
 ||*/*edge.permutive.app*
 ||*/ImpressionPixel*.js
 ||*/OfferWidget*.js
@@ -20,13 +24,21 @@
 ||*/sw.js
 ||*/swg.js
 
-
 ||accounts.google.com/gsi/client
 ||analytics.clubic.com/*
+||*.analytics-helper.com
+||*.batch.com/*
 ||boot.pbstck.com/*
-||choices.consentframework.com/*
+||*.consentframework.com/*
+||datadoghq-browser-agent.com/*
+||*.doubleclick.net/*
+||googletagmanager.com/*
 ||lemonde.fr^*/lemonde.min.js
-||*.mailmunch.co/*.js
-||*.opti-digital.com/*.js
+||*.mailmunch.co/*
+||*.onesignal.com/*
+||*.opti-digital.com/*
+||*.privacy-center.org/*
+||r.bing.com/*
 ||script.ownpage.fr/*
-
+||*.stickyadstv.com/*
+||*.viafoura.net/*
