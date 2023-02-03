@@ -1,0 +1,16 @@
+[Adblock Plus 2.0]
+! Version 202301301055
+! Title: AdTibaone trackers
+! Last modified: 30 Jan 2023 10:55 UTC
+! Expires: 1 days
+! Homepage: https://github.com/AdTibaone/AdTibaone
+
+||*/didomi*.js
+||*/PaymentWarningBanner*.js
+||*/SmartAd*.js
+||*/smarttag*.js
+
+
+||lemonde.fr^*/lemonde.min.js
+
+
