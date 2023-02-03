@@ -5,6 +5,7 @@
 ! Expires: 1 days
 ! Homepage: https://github.com/AdTibaone/AdTibaone
 
+||*/AmauryMedia*.js
 ||*/didomi*.js
 ||*/CmpABTest*.js
 ||*/*edge.permutive.app*
@@ -12,13 +13,20 @@
 ||*/OfferWidget*.js
 ||*/OutbrainAd*.js
 ||*/PaymentWarningBanner*.js
+||*/Share*.js
 ||*/SmartAd*.js
 ||*/smarttag*.js
 ||*/*subscribewithgoogle*
+||*/sw.js
 ||*/swg.js
 
-||accounts.google.com/gsi/client
-||lemonde.fr^*/lemonde.min.js
-||boot.pbstck.com/*
 
+||accounts.google.com/gsi/client
+||analytics.clubic.com/*
+||boot.pbstck.com/*
+||choices.consentframework.com/*
+||lemonde.fr^*/lemonde.min.js
+||*.mailmunch.co/*.js
+||*.opti-digital.com/*.js
+||script.ownpage.fr/*
 
