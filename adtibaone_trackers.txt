@@ -6,6 +6,8 @@
 ! Homepage: https://github.com/AdTibaone/AdTibaone
 
 ||*/didomi*.js
+||*/CmpABTest*.js
+||*/*edge.permutive.app*
 ||*/ImpressionPixel*.js
 ||*/OfferWidget*.js
 ||*/OutbrainAd*.js
@@ -13,7 +15,10 @@
 ||*/SmartAd*.js
 ||*/smarttag*.js
 ||*/*subscribewithgoogle*
+||*/swg.js
 
+||accounts.google.com/gsi/client
 ||lemonde.fr^*/lemonde.min.js
+||boot.pbstck.com/*
 
 
