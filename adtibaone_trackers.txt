@@ -6,10 +6,13 @@
 ! Homepage: https://github.com/AdTibaone/AdTibaone
 
 ||*/didomi*.js
+||*/ImpressionPixel*.js
+||*/OfferWidget*.js
+||*/OutbrainAd*.js
 ||*/PaymentWarningBanner*.js
 ||*/SmartAd*.js
 ||*/smarttag*.js
-
+||*/*subscribewithgoogle*
 
 ||lemonde.fr^*/lemonde.min.js
 
