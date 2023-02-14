@@ -7,12 +7,14 @@
 
 ||*/AbandonnisteStickyBanner*.js
 ||*/ad-web.js
+||*/analytics.js
 ||*/AmauryMedia*.js
 ||*/didomi*.js
 ||*/CmpABTest*.js
 ||*/cookie.min.js
 ||*/crypto-js.min.js
 ||*/*edge.permutive.app*
+||*/headerBiddingDesktop*.js
 ||*/ImpressionPixel*.js
 ||*/lequipe_fswidget.min.js
 ||*/OfferWidget*.js
@@ -44,5 +46,5 @@
 ||*.stickyadstv.com/*
 ||*.viafoura.net/*
 
-##.AdPlaceholder
+lequipe.fr##.AdPlaceholder
 lequipe.fr##.ExternalWidget
