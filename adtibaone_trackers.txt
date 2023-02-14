@@ -5,6 +5,7 @@
 ! Expires: 1 days
 ! Homepage: https://github.com/AdTibaone/AdTibaone
 
+||*/142.*.js
 ||*/AbandonnisteStickyBanner*.js
 ||*/ad-web.js
 ||*/analytics.js
@@ -20,7 +21,10 @@
 ||*/OfferWidget*.js
 ||*/OutbrainAd*.js
 ||*/PaymentWarningBanner*.js
+||*/plausible.js
+||*/router.js
 ||*/Share*.js
+||*/slotsSizesDesktop*.js
 ||*/SmartAd*.js
 ||*/smarttag*.js
 ||*/*subscribewithgoogle*
@@ -31,6 +35,7 @@
 ||analytics.clubic.com/*
 ||*.analytics-helper.com
 ||*.batch.com/*
+||*/beacon.min.js/*
 ||boot.pbstck.com/*
 ||*.consentframework.com/*
 ||datadoghq-browser-agent.com/*
@@ -40,11 +45,14 @@
 ||*.mailmunch.co/*
 ||*.onesignal.com/*
 ||*.opti-digital.com/*
+||cdn.parsely.com/*
 ||*.privacy-center.org/*
 ||r.bing.com/*
 ||script.ownpage.fr/*
+||stats.wp.com/*
 ||*.stickyadstv.com/*
 ||*.viafoura.net/*
 
+clubic.com##.ads
 lequipe.fr##.AdPlaceholder
 lequipe.fr##.ExternalWidget
